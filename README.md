@@ -1,7 +1,7 @@
 # Machine Learning - Fall 2024
 
 ## Course Overview
-This repository contains all my work for the Machine Learning course at Shahid Bahonar University, Fall 2024. It includes homework, projects, and additional resources used throughout the course.
+This repository contains all my work for the Machine Learning course at Shahid Bahonar University of Kerman, Fall 2024. It includes homework, projects, and additional resources used throughout the course.
 
 ### Topics Covered
 - Supervised Learning (Linear Regression, Logistic Regression)
@@ -30,7 +30,7 @@ Clone the repository and install the required libraries:
 
 ```bash
 git clone https://github.com/yourusername/Machine-Learning-Fall-2024-SBU.git
-cd Machine-Learning-Fall-2024-SBU
+cd Machine-Learning-Fall-2024-SBUK
 pip install -r requirements.txt
 ```
 
