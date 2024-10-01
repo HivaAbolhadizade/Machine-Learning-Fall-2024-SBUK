@@ -32,10 +32,12 @@ Clone the repository and install the required libraries:
 git clone https://github.com/yourusername/Machine-Learning-Fall-2024-SBU.git
 cd Machine-Learning-Fall-2024-SBU
 pip install -r requirements.txt
-Usage
+```
+
+## Usage
 Each assignment and project includes a detailed Jupyter Notebook explaining the approach. Navigate to the respective folder and explore the notebooks.
 
-Contributing
+### Contributing
 Feel free to open issues or submit pull requests for improvements or suggestions. Contributions are welcome!
 
 Happy coding, and let's master machine learning together! 🤖
