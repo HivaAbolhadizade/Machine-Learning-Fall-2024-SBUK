@@ -50,7 +50,7 @@ hw6_PCA&AE/
 ## Requirements
 - Python 3.8+
 - NumPy, pandas, scikit-learn, Matplotlib
-- (For NN assignments) TensorFlow or PyTorch
+- (For NN assignments) PyTorch
 
 ## License
 This repository is for educational purposes only.
